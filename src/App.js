@@ -10,6 +10,7 @@ function App() {
       <div className="App">
       <Render/>
     <p>front end react developer</p>
+    <p>learning git now</p>
     
       <Pizacontainer/>
       <Hookscontainer/>

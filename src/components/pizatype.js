@@ -1,0 +1,1 @@
+export const BUY_PIZA="BUY_PIZA"
